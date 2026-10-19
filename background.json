@@ -1,0 +1,26 @@
+{
+  "name": "PinkBackground",
+  "description": "Pink theme",
+  "authors": [
+    {
+      "name": "threetnite-i"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1c1c1c"],
+    "BACKGROUND_SECONDARY": ["#161616"],
+    "BACKGROUND_TERTIARY": ["#101010"],
+    "CHAT_BACKGROUND": ["#1c1c1c"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "TEXT_NORMAL": ["#f2f2f2"],
+    "TEXT_MUTED": ["#b5b5b5"],
+    "INTERACTIVE_NORMAL": ["#ffb6c1"],
+    "INTERACTIVE_ACTIVE": ["#ffc8d2"],
+    "BACKGROUND_ACCENT": ["#ffb6c1"]
+  },
+  "rawColors": {
+    "BRAND_500": "#ffb6c1",
+    "BRAND_560": "#ffb6c1"
+  },
+  "spec": 2
+}
