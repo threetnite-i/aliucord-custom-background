@@ -1,21 +1,27 @@
 {
   "name": "BasicBackground Pink",
-  "description": "Android port of BasicBackground",
+  "description": "Android port of BetterDiscord BasicBackground",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
   "semanticColors": {
-    "CHAT_BACKGROUND": ["#1a1a1a"],
+    "ANDROID_RIPPLE": ["#ffb6c1"],
+
+    "CHAT_BACKGROUND": ["#1c1c1c"],
     "BACKGROUND_PRIMARY": ["#1e1e1e"],
     "BACKGROUND_SECONDARY": ["#181818"],
-    "BACKGROUND_SECONDARY_ALT": ["#151515"],
+    "BACKGROUND_SECONDARY_ALT": ["#161616"],
     "BACKGROUND_TERTIARY": ["#101010"],
     "BACKGROUND_FLOATING": ["#242424"],
+
     "BACKGROUND_MOBILE_PRIMARY": ["#1e1e1e"],
     "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+
     "HOME_BACKGROUND": ["#1e1e1e"],
+
+    "BACKGROUND_ACCENT": ["#ffb6c1"],
 
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#dedede"],
@@ -25,25 +31,4 @@
     "TEXT_SECONDARY": ["#dedede"],
     "TEXT_MUTED": ["#c8c8c8"],
 
-    "INTERACTIVE_NORMAL": ["#ffb6c1"],
-    "INTERACTIVE_HOVER": ["#ffc8d2"],
-    "INTERACTIVE_ACTIVE": ["#ffd6e0"],
-    "INTERACTIVE_MUTED": ["#c8c8c8"],
-
-    "BACKGROUND_ACCENT": ["#ffb6c1"],
-
-    "CHANNELS_DEFAULT": ["#ffffff"],
-    "CHANNEL_ICON": ["#ffd6e0"],
-
-    "CHAT_INPUT_BACKGROUND": ["#202020"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#202020"],
-
-    "CARD_PRIMARY_BG": ["#202020"],
-    "CARD_SECONDARY_BG": ["#2a2a2a"],
-
-    "EMBED_BACKGROUND": ["#232323"],
-
-    "MENTION_FOREGROUND": ["#ffb6c1"],
-    "MENTION_BACKGROUND": ["rgba(255,182,193,0.15)"],
-
-   
+    "TEXT_LINK": ["#ffb6c1"],
