@@ -1,6 +1,6 @@
 {
-  "name": "BasicBackground Pink",
-  "description": "Android port of BetterDiscord BasicBackground",
+  "name": "BasicBackground Pink Solid",
+  "description": "Pink BetterDiscord BasicBackground port with solid background",
   "authors": [
     {
       "name": "threetnite-i"
@@ -9,17 +9,17 @@
   "semanticColors": {
     "ANDROID_RIPPLE": ["#ffb6c1"],
 
-    "CHAT_BACKGROUND": ["#1c1c1c"],
-    "BACKGROUND_PRIMARY": ["#1e1e1e"],
-    "BACKGROUND_SECONDARY": ["#181818"],
-    "BACKGROUND_SECONDARY_ALT": ["#161616"],
-    "BACKGROUND_TERTIARY": ["#101010"],
-    "BACKGROUND_FLOATING": ["#242424"],
+    "CHAT_BACKGROUND": ["#000000"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_FLOATING": ["#000000"],
 
-    "BACKGROUND_MOBILE_PRIMARY": ["#1e1e1e"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
 
-    "HOME_BACKGROUND": ["#1e1e1e"],
+    "HOME_BACKGROUND": ["#000000"],
 
     "BACKGROUND_ACCENT": ["#ffb6c1"],
 
@@ -32,3 +32,97 @@
     "TEXT_MUTED": ["#c8c8c8"],
 
     "TEXT_LINK": ["#ffb6c1"],
+
+    "INTERACTIVE_NORMAL": ["#ffb6c1"],
+    "INTERACTIVE_HOVER": ["#ffc8d2"],
+    "INTERACTIVE_ACTIVE": ["#ffd6e0"],
+    "INTERACTIVE_MUTED": ["#c8c8c8"],
+
+    "CHANNELS_DEFAULT": ["#ffffff"],
+    "CHANNEL_ICON": ["#ffd6e0"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#000000"],
+    "CHAT_INPUT_BACKGROUND": ["#000000"],
+
+    "CARD_PRIMARY_BG": ["#000000"],
+    "CARD_SECONDARY_BG": ["#000000"],
+
+    "EMBED_BACKGROUND": ["#000000"],
+
+    "MENTION_FOREGROUND": ["#ffb6c1"],
+    "MENTION_BACKGROUND": ["rgba(255,182,193,0.15)"],
+
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "rgba(255,182,193,0.12)"
+    ],
+
+    "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+      "rgba(255,182,193,0.18)"
+    ],
+
+    "SCROLLBAR_AUTO_THUMB": ["#ffb6c1"],
+    "BG_BACKDROP": ["#000000"]
+  },
+
+  "rawColors": {
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_645": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+
+    "BRAND_100": "#fff4f7",
+    "BRAND_130": "#ffedf2",
+    "BRAND_160": "#ffe8ee",
+    "BRAND_200": "#ffe4eb",
+    "BRAND_260": "#ffdce5",
+    "BRAND_300": "#ffd3de",
+    "BRAND_330": "#ffcad7",
+    "BRAND_345": "#ffc4d1",
+    "BRAND_360": "#ffbfd0",
+    "BRAND_400": "#ffb6c1",
+    "BRAND_430": "#ffb6c1",
+    "BRAND_460": "#ffb6c1",
+    "BRAND_500": "#ffb6c1",
+    "BRAND_530": "#ffbfd0",
+    "BRAND_560": "#ffc8d2",
+    "BRAND_600": "#ffd6e0",
+    "BRAND_660": "#ffe0e8",
+    "BRAND_700": "#ffe8ee",
+    "BRAND_730": "#fff0f4",
+
+    "PLUM_1": "#ffffff",
+    "PLUM_10": "#ffb6c1",
+    "PLUM_16": "#ffb6c1",
+
+    "WHITE_500": "#ffffff",
+
+    "TEXT_NORMAL": "#ffffff",
+    "TEXT_LINK": "#ffb6c1",
+
+    "RED_400": "#ff9eb0",
+    "RED_560": "#ff8ca3",
+
+    "GREEN_360": "#ffb6c1",
+
+    "GUILD_BOOSTING_PINK": "#ffb6c1",
+    "GUILD_BOOSTING_PURPLE": "#ffc8d2",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ffd6e0"
+  },
+
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#ffb6c1",
+    "icons": {
+      "StatusStreaming": "#ffb6c1",
+      "StatusMobileOnline": "#7dffb3",
+      "StatusIdle": "#ffd27d",
+      "StatusDND": "#ff8ca3",
+      "StatusOffline": "#8e8e8e",
+      "StatusOnline": "#7dffb3"
+    }
+  },
+
+  "spec": 2
+}
