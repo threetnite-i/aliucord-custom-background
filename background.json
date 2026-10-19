@@ -1,26 +1,49 @@
 {
-  "name": "PinkBackground",
-  "description": "Pink theme",
+  "name": "BasicBackground Pink",
+  "description": "Android port of BasicBackground",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#1c1c1c"],
-    "BACKGROUND_SECONDARY": ["#161616"],
+    "CHAT_BACKGROUND": ["#1a1a1a"],
+    "BACKGROUND_PRIMARY": ["#1e1e1e"],
+    "BACKGROUND_SECONDARY": ["#181818"],
+    "BACKGROUND_SECONDARY_ALT": ["#151515"],
     "BACKGROUND_TERTIARY": ["#101010"],
-    "CHAT_BACKGROUND": ["#1c1c1c"],
+    "BACKGROUND_FLOATING": ["#242424"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1e1e1e"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+    "HOME_BACKGROUND": ["#1e1e1e"],
+
     "HEADER_PRIMARY": ["#ffffff"],
-    "TEXT_NORMAL": ["#f2f2f2"],
-    "TEXT_MUTED": ["#b5b5b5"],
+    "HEADER_SECONDARY": ["#dedede"],
+
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_SECONDARY": ["#dedede"],
+    "TEXT_MUTED": ["#c8c8c8"],
+
     "INTERACTIVE_NORMAL": ["#ffb6c1"],
-    "INTERACTIVE_ACTIVE": ["#ffc8d2"],
-    "BACKGROUND_ACCENT": ["#ffb6c1"]
-  },
-  "rawColors": {
-    "BRAND_500": "#ffb6c1",
-    "BRAND_560": "#ffb6c1"
-  },
-  "spec": 2
-}
+    "INTERACTIVE_HOVER": ["#ffc8d2"],
+    "INTERACTIVE_ACTIVE": ["#ffd6e0"],
+    "INTERACTIVE_MUTED": ["#c8c8c8"],
+
+    "BACKGROUND_ACCENT": ["#ffb6c1"],
+
+    "CHANNELS_DEFAULT": ["#ffffff"],
+    "CHANNEL_ICON": ["#ffd6e0"],
+
+    "CHAT_INPUT_BACKGROUND": ["#202020"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#202020"],
+
+    "CARD_PRIMARY_BG": ["#202020"],
+    "CARD_SECONDARY_BG": ["#2a2a2a"],
+
+    "EMBED_BACKGROUND": ["#232323"],
+
+    "MENTION_FOREGROUND": ["#ffb6c1"],
+    "MENTION_BACKGROUND": ["rgba(255,182,193,0.15)"],
+
+   
