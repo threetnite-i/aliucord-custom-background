@@ -1,19 +1,25 @@
 {
-  "name": "Last Mapper",
-  "description": "Find final bars",
+  "name": "Bottom Nav Finder",
+  "description": "Find bottom navigation bar",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
+
   "semanticColors": {
+    "TAB_BAR_BACKGROUND": ["#ff0000"],
+    "TABLEROW_BACKGROUND_DEFAULT": ["#00ff00"],
+    "TABLEROW_BACKGROUND_PRESSED": ["#0000ff"],
+
+    "PANEL_BG": ["#ffff00"],
+
+    "GUILD_FOLDER_BACKGROUND": ["#ff00ff"],
+    "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": ["#00ffff"],
+
+    "MOBILE_FLOATINGBAR_BACKGROUND": ["#000000"],
+
     "CHAT_BACKGROUND": ["#000000"],
-
-    "CARD_BACKGROUND_DEFAULT": ["#000000"],
-    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"],
-
-    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
-    "INPUT_BACKGROUND_DEFAULT": ["#000000"],
 
     "BG_BASE_PRIMARY": ["#000000"],
     "BG_BASE_SECONDARY": ["#000000"],
@@ -21,15 +27,7 @@
 
     "BACKGROUND_BASE_LOWEST": ["#000000"],
     "BACKGROUND_BASE_LOWER": ["#000000"],
-    "BACKGROUND_BASE_LOW": ["#000000"],
-
-    "BACKGROUND_SURFACE_HIGH": ["#000000"],
-    "BACKGROUND_SURFACE_HIGHEST": ["#000000"],
-
-    "PANEL_BG": ["#ff0000"],
-    "MOBILE_FLOATINGBAR_BACKGROUND": ["#00ff00"],
-    "MOBILE_FLOATINGBAR_BACKGROUND_HIGHER": ["#0000ff"],
-    "TAB_BAR_BACKGROUND": ["#ffff00"]
+    "BACKGROUND_BASE_LOW": ["#000000"]
   },
 
   "spec": 2
