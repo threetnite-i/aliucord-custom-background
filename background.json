@@ -1,6 +1,6 @@
 {
-  "name": "Final Finder",
-  "description": "Find remaining gray areas",
+  "name": "Chat Background Finder",
+  "description": "Find actual chat background",
   "authors": [
     {
       "name": "threetnite-i"
@@ -18,27 +18,21 @@
     "BACKGROUND_SURFACE_HIGH": ["#000000"],
     "BACKGROUND_SURFACE_HIGHEST": ["#000000"],
 
+    "PANEL_BG": ["#000000"],
+    "TAB_BAR_BACKGROUND": ["#000000"],
+
     "CHANNEL_BACKGROUND_DEFAULT": ["#ff0000"],
     "STANDALONE_CHANNEL_CONTENT_BACKGROUND": ["#00ff00"],
 
-    "CHANNELTEXTAREA_BACKGROUND": ["#0000ff"],
-    "CHAT_INPUT_BACKGROUND": ["#ffff00"],
+    "CARD_BACKGROUND_DEFAULT": ["#0000ff"],
+    "MOBILE_EMBED_BACKGROUND_DEFAULT": ["#ffff00"],
 
-    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#ff00ff"],
-    "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": ["#00ffff"],
+    "CHAT_BACKGROUND": ["#ff00ff"],
 
-    "INPUT_BACKGROUND_DEFAULT": ["#ff8800"],
-    "SHARE_CHAT_INPUT_BACKGROUND": ["#8800ff"],
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
+    "INPUT_BACKGROUND_DEFAULT": ["#000000"],
 
-    "MOBILE_FLOATINGBAR_BACKGROUND": ["#000000"],
-    "MOBILE_FLOATINGBAR_BACKGROUND_HIGHER": ["#000000"],
-
-    "CARD_BACKGROUND_DEFAULT": ["#88ff00"],
-    "CARD_PRIMARY_BG": ["#0088ff"],
-
-    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#ff4444"],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#44ff44"],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#4444ff"]
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"]
   },
 
   "spec": 2
