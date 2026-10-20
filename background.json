@@ -1,11 +1,12 @@
 {
-  "name": "BasicBackground Pink Black",
-  "description": "Black theme with pink accents",
+  "name": "UI Debug",
+  "description": "Identify remaining tokens",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
+
   "semanticColors": {
     "BG_BASE_PRIMARY": ["#000000"],
     "BG_BASE_SECONDARY": ["#000000"],
@@ -16,83 +17,25 @@
     "BACKGROUND_BASE_LOW": ["#000000"],
 
     "BACKGROUND_SURFACE_HIGH": ["#000000"],
-    "BACKGROUND_SURFACE_HIGHEST": ["#000000"],
+    "BACKGROUND_SURFACE_HIGHEST": ["#ff0000"],
 
-    "PANEL_BG": ["#000000"],
-    "TAB_BAR_BACKGROUND": ["#000000"],
+    "PANEL_BG": ["#00ff00"],
+    "TAB_BAR_BACKGROUND": ["#0000ff"],
 
     "CHANNEL_BACKGROUND_DEFAULT": ["#000000"],
     "STANDALONE_CHANNEL_CONTENT_BACKGROUND": ["#000000"],
     "CHAT_BANNER_BG": ["#000000"],
 
-    "CHAT_INPUT_BACKGROUND": ["#000000"],
-    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
-    "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": ["#000000"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#000000"],
+    "CHAT_INPUT_BACKGROUND": ["#ff00ff"],
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#00ffff"],
 
-    "CARD_BACKGROUND_DEFAULT": ["#000000"],
-    "CARD_PRIMARY_BG": ["#000000"],
-    "CARD_SECONDARY_BG": ["#000000"],
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#ffff00"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#ff8800"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#8800ff"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#ff0088"],
 
-    "MODAL_BACKGROUND": ["#000000"],
-    "MODAL_FOOTER_BACKGROUND": ["#000000"],
-
-    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000"],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
-
-    "BACKGROUND_ACCENT": ["#ffb6c1"],
-
-    "HEADER_PRIMARY": ["#ffffff"],
-    "HEADER_SECONDARY": ["#dedede"],
-
-    "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#dedede"],
-    "TEXT_MUTED": ["#c8c8c8"],
-
-    "TEXT_LINK": ["#ffb6c1"],
-
-    "INTERACTIVE_NORMAL": ["#ffb6c1"],
-    "INTERACTIVE_HOVER": ["#ffc8d2"],
-    "INTERACTIVE_ACTIVE": ["#ffd6e0"],
-
-    "CHANNELS_DEFAULT": ["#ffffff"],
-    "CHANNEL_ICON": ["#ffd6e0"],
-
-    "MENTION_FOREGROUND": ["#ffb6c1"],
-    "MENTION_BACKGROUND": ["rgba(255,182,193,0.15)"],
-
-    "SCROLLBAR_AUTO_THUMB": ["#ffb6c1"],
-
-    "BG_BACKDROP": ["#000000"]
-  },
-
-  "rawColors": {
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
-    "PRIMARY_645": "#000000",
-    "PRIMARY_660": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
-
-    "BRAND_500": "#ffb6c1",
-    "BRAND_560": "#ffc8d2",
-
-    "WHITE_500": "#ffffff"
-  },
-
-  "plus": {
-    "version": 0,
-    "mentionLineColor": "#ffb6c1",
-    "icons": {
-      "StatusStreaming": "#ffb6c1",
-      "StatusMobileOnline": "#7dffb3",
-      "StatusIdle": "#ffd27d",
-      "StatusDND": "#ff8ca3",
-      "StatusOffline": "#8e8e8e",
-      "StatusOnline": "#7dffb3"
-    }
+    "CHAT_INPUT_ACTION_BUTTON_BACKGROUND": ["#88ff00"],
+    "MOBILE_EMOJI_BUTTON_BACKGROUND": ["#0088ff"]
   },
 
   "spec": 2
