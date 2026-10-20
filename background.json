@@ -1,6 +1,6 @@
 {
-  "name": "Bottom Nav Finder",
-  "description": "Find bottom navigation bar",
+  "name": "Nav Finder",
+  "description": "Find bottom nav",
   "authors": [
     {
       "name": "threetnite-i"
@@ -9,15 +9,10 @@
 
   "semanticColors": {
     "TAB_BAR_BACKGROUND": ["#ff0000"],
-    "TABLEROW_BACKGROUND_DEFAULT": ["#00ff00"],
-    "TABLEROW_BACKGROUND_PRESSED": ["#0000ff"],
-
-    "PANEL_BG": ["#ffff00"],
-
-    "GUILD_FOLDER_BACKGROUND": ["#ff00ff"],
-    "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": ["#00ffff"],
-
-    "MOBILE_FLOATINGBAR_BACKGROUND": ["#000000"],
+    "USER_PROFILE_CONTAINER_BACKGROUND": ["#00ff00"],
+    "GUILD_FOLDER_BACKGROUND": ["#0000ff"],
+    "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": ["#ffff00"],
+    "MOBILE_SEARCHBAR_GRADIENT_BACKGROUND": ["#ff00ff"],
 
     "CHAT_BACKGROUND": ["#000000"],
 
@@ -27,7 +22,18 @@
 
     "BACKGROUND_BASE_LOWEST": ["#000000"],
     "BACKGROUND_BASE_LOWER": ["#000000"],
-    "BACKGROUND_BASE_LOW": ["#000000"]
+    "BACKGROUND_BASE_LOW": ["#000000"],
+
+    "BACKGROUND_SURFACE_HIGH": ["#000000"],
+    "BACKGROUND_SURFACE_HIGHEST": ["#000000"],
+
+    "MOBILE_FLOATINGBAR_BACKGROUND": ["#000000"],
+
+    "CARD_BACKGROUND_DEFAULT": ["#000000"],
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"],
+
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
+    "INPUT_BACKGROUND_DEFAULT": ["#000000"]
   },
 
   "spec": 2
