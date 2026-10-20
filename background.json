@@ -1,128 +1,28 @@
 {
-  "name": "BasicBackground Blue Solid",
-  "description": "Solid blue Revenge theme",
+  "name": "Blue Test",
+  "description": "Test background override",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#4a7dff"],
-
-    "CHAT_BACKGROUND": ["#0f2a66"],
-    "BACKGROUND_PRIMARY": ["#0f2a66"],
-    "BACKGROUND_SECONDARY": ["#0f2a66"],
-    "BACKGROUND_SECONDARY_ALT": ["#0f2a66"],
-    "BACKGROUND_TERTIARY": ["#0f2a66"],
-    "BACKGROUND_FLOATING": ["#0f2a66"],
-
-    "BACKGROUND_MOBILE_PRIMARY": ["#0f2a66"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0f2a66"],
-
-    "HOME_BACKGROUND": ["#0f2a66"],
-
-    "BACKGROUND_ACCENT": ["#6ea8ff"],
-
-    "HEADER_PRIMARY": ["#ffffff"],
-    "HEADER_SECONDARY": ["#d9e7ff"],
-
-    "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#d9e7ff"],
-    "TEXT_MUTED": ["#bdd1ff"],
-
-    "TEXT_LINK": ["#6ea8ff"],
-
-    "INTERACTIVE_NORMAL": ["#6ea8ff"],
-    "INTERACTIVE_HOVER": ["#89b8ff"],
-    "INTERACTIVE_ACTIVE": ["#a3c8ff"],
-    "INTERACTIVE_MUTED": ["#bdd1ff"],
-
-    "CHANNELS_DEFAULT": ["#ffffff"],
-    "CHANNEL_ICON": ["#a3c8ff"],
-
-    "CHANNELTEXTAREA_BACKGROUND": ["#0f2a66"],
-    "CHAT_INPUT_BACKGROUND": ["#0f2a66"],
-
-    "CARD_PRIMARY_BG": ["#0f2a66"],
-    "CARD_SECONDARY_BG": ["#0f2a66"],
-
-    "EMBED_BACKGROUND": ["#0f2a66"],
-
-    "MENTION_FOREGROUND": ["#6ea8ff"],
-    "MENTION_BACKGROUND": ["rgba(110,168,255,0.15)"],
-
-    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "rgba(110,168,255,0.12)"
-    ],
-
-    "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
-      "rgba(110,168,255,0.18)"
-    ],
-
-    "SCROLLBAR_AUTO_THUMB": ["#6ea8ff"],
-    "BG_BACKDROP": ["#0f2a66"]
+    "BACKGROUND_MOBILE_PRIMARY": ["#0000ff"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0000ff"],
+    "BACKGROUND_SECONDARY": ["#0000ff"],
+    "BACKGROUND_SECONDARY_ALT": ["#0000ff"],
+    "BACKGROUND_FLOATING": ["#0000ff"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0000ff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0000ff"],
+    "BG_BASE_TERTIARY": ["#0000ff"]
   },
-
   "rawColors": {
-    "PRIMARY_600": "#0f2a66",
-    "PRIMARY_630": "#0f2a66",
-    "PRIMARY_645": "#0f2a66",
-    "PRIMARY_660": "#0f2a66",
-    "PRIMARY_700": "#0f2a66",
-    "PRIMARY_800": "#0f2a66",
-
-    "BRAND_100": "#eef5ff",
-    "BRAND_130": "#e3eeff",
-    "BRAND_160": "#d8e7ff",
-    "BRAND_200": "#cde0ff",
-    "BRAND_260": "#bfd7ff",
-    "BRAND_300": "#b1ceff",
-    "BRAND_330": "#a5c6ff",
-    "BRAND_345": "#9cbfff",
-    "BRAND_360": "#94b8ff",
-    "BRAND_400": "#6ea8ff",
-    "BRAND_430": "#6ea8ff",
-    "BRAND_460": "#6ea8ff",
-    "BRAND_500": "#6ea8ff",
-    "BRAND_530": "#7fb1ff",
-    "BRAND_560": "#8fbbff",
-    "BRAND_600": "#9fc5ff",
-    "BRAND_660": "#b3d0ff",
-    "BRAND_700": "#c5dbff",
-    "BRAND_730": "#d9e7ff",
-
-    "PLUM_1": "#ffffff",
-    "PLUM_10": "#6ea8ff",
-    "PLUM_16": "#6ea8ff",
-
-    "WHITE_500": "#ffffff",
-
-    "TEXT_NORMAL": "#ffffff",
-    "TEXT_LINK": "#6ea8ff",
-
-    "RED_400": "#6ea8ff",
-    "RED_560": "#89b8ff",
-
-    "GREEN_360": "#6ea8ff",
-
-    "GUILD_BOOSTING_PINK": "#6ea8ff",
-    "GUILD_BOOSTING_PURPLE": "#89b8ff",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#a3c8ff"
+    "PRIMARY_600": "#0000ff",
+    "PRIMARY_630": "#0000ff",
+    "PRIMARY_645": "#0000ff",
+    "PRIMARY_660": "#0000ff",
+    "PRIMARY_700": "#0000ff",
+    "PRIMARY_800": "#0000ff"
   },
-
-  "plus": {
-    "version": 0,
-    "mentionLineColor": "#6ea8ff",
-    "icons": {
-      "StatusStreaming": "#6ea8ff",
-      "StatusMobileOnline": "#7dffb3",
-      "StatusIdle": "#ffd27d",
-      "StatusDND": "#ff8f8f",
-      "StatusOffline": "#8e8e8e",
-      "StatusOnline": "#7dffb3"
-    }
-  },
-
   "spec": 2
 }
