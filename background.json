@@ -1,6 +1,6 @@
 {
-  "name": "Debug Red",
-  "description": "Find button tokens",
+  "name": "Black Test 2",
+  "description": "Find remaining background tokens",
   "authors": [
     {
       "name": "threetnite-i"
@@ -21,17 +21,18 @@
     "PANEL_BG": ["#000000"],
     "TAB_BAR_BACKGROUND": ["#000000"],
 
-    "CARD_BACKGROUND_DEFAULT": ["#ff0000"],
-    "CARD_PRIMARY_BG": ["#ff0000"],
-    "CARD_SECONDARY_BG": ["#ff0000"],
+    "CHAT_BANNER_BG": ["#ff0000"],
+    "CHANNEL_BACKGROUND_DEFAULT": ["#00ff00"],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": ["#0000ff"],
 
-    "MODAL_BACKGROUND": ["#00ff00"],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": ["#ffff00"],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_HOVER": ["#ff00ff"],
 
-    "CHAT_INPUT_BACKGROUND": ["#0000ff"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#0000ff"],
+    "CARD_BACKGROUND_DEFAULT": ["#00ffff"],
+    "MOBILE_EMBED_BACKGROUND_DEFAULT": ["#ff8800"],
 
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#ffff00"],
-    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#ff00ff"]
+    "CHAT_INPUT_BACKGROUND": ["#8800ff"],
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#0088ff"]
   },
   "spec": 2
 }
