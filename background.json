@@ -1,12 +1,20 @@
 {
-  "name": "Chat Background Finder",
-  "description": "Find actual chat background",
+  "name": "Last Mapper",
+  "description": "Find final bars",
   "authors": [
     {
       "name": "threetnite-i"
     }
   ],
   "semanticColors": {
+    "CHAT_BACKGROUND": ["#000000"],
+
+    "CARD_BACKGROUND_DEFAULT": ["#000000"],
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"],
+
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
+    "INPUT_BACKGROUND_DEFAULT": ["#000000"],
+
     "BG_BASE_PRIMARY": ["#000000"],
     "BG_BASE_SECONDARY": ["#000000"],
     "BG_BASE_TERTIARY": ["#000000"],
@@ -18,21 +26,10 @@
     "BACKGROUND_SURFACE_HIGH": ["#000000"],
     "BACKGROUND_SURFACE_HIGHEST": ["#000000"],
 
-    "PANEL_BG": ["#000000"],
-    "TAB_BAR_BACKGROUND": ["#000000"],
-
-    "CHANNEL_BACKGROUND_DEFAULT": ["#ff0000"],
-    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": ["#00ff00"],
-
-    "CARD_BACKGROUND_DEFAULT": ["#0000ff"],
-    "MOBILE_EMBED_BACKGROUND_DEFAULT": ["#ffff00"],
-
-    "CHAT_BACKGROUND": ["#ff00ff"],
-
-    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#000000"],
-    "INPUT_BACKGROUND_DEFAULT": ["#000000"],
-
-    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#000000"]
+    "PANEL_BG": ["#ff0000"],
+    "MOBILE_FLOATINGBAR_BACKGROUND": ["#00ff00"],
+    "MOBILE_FLOATINGBAR_BACKGROUND_HIGHER": ["#0000ff"],
+    "TAB_BAR_BACKGROUND": ["#ffff00"]
   },
 
   "spec": 2
